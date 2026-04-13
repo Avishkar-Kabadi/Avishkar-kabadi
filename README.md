@@ -24,7 +24,7 @@ I am a **Fullstack Developer** with a focus on building scalable, end-to-end web
 ### 🛠️ Technical Stack
 <img src="https://skillicons.dev/icons?i=react,next,redux,go,fastapi,nodejs,express,mongodb,mysql,js,ts,tailwind,bootstrap,git,github,py,java" />
 
-* **Frontend:** React.js, Redux Toolkit, Context API, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS.
+* **Frontend:** React.js, React Native, Expo, Redux Toolkit, Context API, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS.
 * **Backend:** Node.js, Express.js, FastAPI, Gin(Gonic).
 * **Database:** MongoDB (Schema Optimization), MySQL.
 * **Tools:** Git, GitHub, Power Apps, Power Automate, SharePoint.
